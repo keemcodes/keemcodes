@@ -15,3 +15,9 @@ Basically... everything I learned over the years in my youth was sparked because
 
 ## Why did I learn to code
 Simple, I wanted to make my own private game server which required a pretty extensive knowledge base in coding. Over years of coppling together code as a teenager, asking for help on the SA:MP coding forums... I learned how to code. I always tell people I learned how to code on accident haha. It was first an innocent hobby... later morphed into a serious passion.
+
+## What do I do now?
+* I work for Hartsfield Jackson International Airport as a Software Engineer tasked in Web Development.
+* I manage all of the airports public facing websites.
+* I build custom internal applications for the airport
+* I build custom web features and improve user experience
