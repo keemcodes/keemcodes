@@ -2,7 +2,7 @@
 Hi My name is Akeem Anderson. I'm a Software Engineer based in Atlanta. I finally decided to bite the bullet and get on GitHub. I have alot of interesting things I would love to share.
 
 ## How did I learn to code?
-I'm a self taught engineer, I been coding since I was 12-13, I'm currently 26. I learned to code with pure trial and error, messing around with game modding/hacking, making game harvesting bots, social media bots, and private server development in SA:MP taught me mostly everything I know.
+I'm a self taught engineer, I been coding since I was 12, I'm currently 26. I learned to code with pure trial and error, messing around with game modding/hacking, making game harvesting bots, social media bots, and private server development in SA:MP taught me mostly everything I know.
 
 I ran a small SA:MP server for a few years, I picked up so much during this time.
 
