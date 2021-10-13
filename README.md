@@ -26,4 +26,4 @@ Simple, I wanted to make my own private game server which required a pretty exte
 * I did a very poor job of keeping up with all the code I wrote over the years. I just recently decided that I'm going to do a better job tracking the code I write.
 * I still have alot of the code I wrote over the years, I just gotta find it stuffed away in my many emails and old harddrives :/ For now, I'll upload repos and give descriptions of the projects I've worked on. If I find code that I can share, I'll add it to the repo.
 * Here is an old hawkee account of mine I found for 2009! I was writing little snippets for the IRCs I used to hang out in http://hawkee.com/profile/55487/
-* Update: I was able to find alot of my old code and a ton of snippets. I attached them all to the revelvant repos, feel free to give a look. Don't laugh, I was literally 13 coding some of this stuff lol
+* Update: I was able to find alot of my old code and a ton of snippets. I attached them all to the relevant repos, feel free to give a look. Don't laugh, I was literally 13 coding some of this stuff lol
