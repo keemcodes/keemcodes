@@ -21,3 +21,8 @@ Simple, I wanted to make my own private game server which required a pretty exte
 * I manage all of the airport's public facing websites.
 * I build custom internal applications for the airport
 * I build custom web features and improve user experience
+
+## Where is all my work?
+* I did a very poor job of keeping up with all the code I wrote over the years. I just recently decided that I'm going to do a better job tracking the code I write.
+* I have some of the code I wrote over the years, I just gotta find it. For now, I'll upload repos and give descriptions of what the projects I've worked on. If I find code that I can share, I'll add it to the repo.
+* Here is an old hawkee account of mine I found for 2009! I was writing little snippets for the IRCs I used to hang out in http://hawkee.com/profile/55487/
