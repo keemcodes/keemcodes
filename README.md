@@ -18,6 +18,6 @@ Simple, I wanted to make my own private game server which required a pretty exte
 
 ## What do I do now?
 * I work for Hartsfield Jackson International Airport as a Software Engineer tasked in Web Development.
-* I manage all of the airports public facing websites.
+* I manage all of the airport's public facing websites.
 * I build custom internal applications for the airport
 * I build custom web features and improve user experience
